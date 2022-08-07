@@ -1,4 +1,4 @@
-//════════════════════════════//
+H//════════════════════════════//
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -63,7 +63,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['916909137213']
 global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' // Gayan | 🍁
+global.botname = 'Cheems Bot MD V4' //Gayan
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
